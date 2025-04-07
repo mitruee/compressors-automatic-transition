@@ -1,3 +1,5 @@
+# all commented lines implement the database connection
+
 # import json
 import time
 # import psycopg2
